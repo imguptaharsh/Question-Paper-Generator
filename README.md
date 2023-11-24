@@ -76,7 +76,8 @@ This Node.js application generates question papers based on specified criteria s
 
 7. **View the response, which should be the generated question paper based on the specified criteria.**
    
-8. <img width="1101" alt="Screenshot 2023-11-24 at 4 19 25 PM" src="https://github.com/imguptaharsh/Question-Paper-Generator/assets/111433732/18ee0140-d33d-45e1-83da-d58897efe5ba">
+8.<img width="1107" alt="Screenshot 2023-11-24 at 4 47 07 PM" src="https://github.com/imguptaharsh/Question-Paper-Generator/assets/111433732/9d26aec6-bf33-44bd-9943-be7656bf935c">
+
    
 9. If you want to view the all questions without generating a paper, you can make a GET request to the following URL:
 
