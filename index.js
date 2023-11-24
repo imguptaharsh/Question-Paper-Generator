@@ -10,5 +10,5 @@ app.use(express.json());
 app.use('/api/questions', questionController);
 
 app.listen(port, () => {
-  console.log(`Server is running at http://localhost:${port}`);
+  console.log(`Server is running at port ${port}`);
 });
